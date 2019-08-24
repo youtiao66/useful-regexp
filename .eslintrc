@@ -1,0 +1,10 @@
+{
+  "extends": ["standard", "plugin:jest/recommended"],
+  "plugins": ["jest"],
+  "rules": {
+    "space-before-function-paren": 0,
+    "eol-last": 1,
+    "no-multiple-empty-lines": 1
+  },
+  "parser": "babel-eslint"
+}

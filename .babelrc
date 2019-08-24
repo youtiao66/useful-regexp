@@ -1,0 +1,12 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "browsers": ["android > 4.0", "ios > 7.0"]
+        }
+      }
+    ]
+  ]
+}
